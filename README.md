@@ -2,7 +2,7 @@
 Bash Shell Script Cryptography
 
 ```
-apt pudate -y;apt upgrade -y
+apt update -y;apt upgrade -y
 
 pkg install nodejs
 
