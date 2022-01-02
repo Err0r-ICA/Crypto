@@ -1,6 +1,6 @@
 ![logo](https://i.postimg.cc/13TtJ5nt/Screenshot-20200930-070753-Chrome.jpg)
 
-
+# 💿 Installation 💿
 ```
 apt update -y;apt upgrade -y
 
@@ -15,10 +15,10 @@ cd Crypto
 
 ## Main Input: python2 Crypto
 
-## Screenshot 
+## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/7wVJQMmc/Screenshot-20200419-190608-Termux.jpg) 
 
-### Note: Your Script Must be Situated In Internal Memory
+### 📒 Note: Your Script Must be Situated In Internal Memory
 
 [![Build-passing](https://img.shields.io/badge/build-passing-red.svg?style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues) [![Stars](https://img.shields.io/open-vsx/stars/Redhat/Java.svg?style=plastic&color=orange)](https://github.com/Err0r-ICA/SpeedTest/issues) [![Coverage](https://img.shields.io/azure-devops/coverage/Swellaby/Opensource/25?color=yellow&style=plastic)](https://github.com/Err0r-ICA/SpeedTest/issues)
 
